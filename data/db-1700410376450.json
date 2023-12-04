@@ -1,0 +1,29 @@
+{
+  "mahasiswa": [
+    {
+      "id": 1,
+      "nama": "Kevin AHAHAHA",
+      "nim": "21/483062/SV/20067",
+      "kelas": "A",
+      "icon": "user",
+      "color": "#FF0000"
+    },
+    {
+      "nama": "Asbian Tunggul",
+      "nim": "21/483062/SV/20067",
+      "kelas": "A",
+      "icon": "user",
+      "color": "#FF0000",
+      "id": 2
+    },
+    {
+      "nama": "Lala",
+      "nim": "21/483262/SV/525145",
+      "kelas": "C",
+      "jeniskelamin": "Perempuan",
+      "color": "#FFFFFF",
+      "icon": "user",
+      "id": 3
+    }
+  ]
+}

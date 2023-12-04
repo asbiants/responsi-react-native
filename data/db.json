@@ -1,0 +1,38 @@
+{
+  "mahasiswa": [
+    {
+      "id": 1,
+      "nama": "Kevin AHAHAHA",
+      "nim": "21/483062/SV/20067",
+      "kelas": "A",
+      "icon": "user",
+      "color": "#FF0000"
+    },
+    {
+      "nama": "Asbian Tunggul",
+      "nim": "21/483062/SV/20067",
+      "kelas": "A",
+      "icon": "user",
+      "color": "#FF0000",
+      "id": 2
+    },
+    {
+      "nama": "Alifya Deraya Rahmawati",
+      "nim": "22/497750/KH/11279",
+      "kelas": "A",
+      "jeniskelamin": "Cewewewewewew",
+      "color": "#000000000",
+      "icon": "user",
+      "id": 4
+    },
+    {
+      "nama": "Agus",
+      "nim": "23/34346356/SV/138109",
+      "kelas": "Z",
+      "jeniskelamin": "Laki",
+      "color": "#FFFFFF",
+      "icon": "user",
+      "id": 6
+    }
+  ]
+}
